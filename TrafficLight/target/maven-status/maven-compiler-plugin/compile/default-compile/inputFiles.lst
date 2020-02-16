@@ -1,0 +1,13 @@
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/Light.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/impl/RedLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/TrafficLightStatesDescription.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/impl/GreenBlinkingLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/impl/YellowLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/Main.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/impl/RedYellowLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/TrafficLightGroup.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/TrafficLightState.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/light/TrafficLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/impl/GreenLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/ZebraLight.java
+/Users/Filip/Documents/TrafficLight/src/main/java/trafficlight/model/state/LightThread.java

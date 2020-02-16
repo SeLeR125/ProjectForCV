@@ -1,0 +1,11 @@
+trafficlight/model/state/impl/RedLight.class
+trafficlight/model/state/impl/GreenLight.class
+trafficlight/model/state/TrafficLightStatesDescription.class
+trafficlight/model/state/TrafficLightState.class
+trafficlight/model/state/impl/RedYellowLight.class
+trafficlight/model/state/impl/YellowLight.class
+trafficlight/model/state/impl/GreenLight$Singleton.class
+trafficlight/model/state/impl/RedYellowLight$Singleton.class
+trafficlight/model/light/TrafficLight.class
+trafficlight/model/state/impl/RedLight$Singleton.class
+trafficlight/model/state/impl/YellowLight$Singleton.class
